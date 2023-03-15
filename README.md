@@ -14,9 +14,6 @@ Stay anonymous and secure online with DedSec Proxy - the perfect tool for your p
 * Ubuntu
 * Termux
 
-### PREREQUISITES
-* sudo - [ MUST ]
-
 ### LANGUAGE 
 * python
 
